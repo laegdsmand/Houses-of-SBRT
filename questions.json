@@ -1,0 +1,92 @@
+[
+	{
+            q: "What is your favorite 'magical' tool in the clinic?",
+            options: [
+                { text: "The 'Undo' button on the TPS.", house: "Hufflepuff" },
+                { text: "High-dose-rate 6MV FFF beams. For speed. ", house: "Gryffindor" },
+                { text: "A Deformable Image Registration (DIR) algorithm and quality AI contouring", house: "Slytherin" },
+                { text: "Real-time cine-MRI gating", house: "Ravenclaw" }
+            ]
+        },
+        {
+            q: "A patient arrives with a pacemaker and a request for liver SBRT. You...",
+            options: [
+                { text: "Double-check the clinic’s standard SOP for the third time", house: "Hufflepuff" },
+                { text: "Treat them on the Ethos with bold confidence", house: "Gryffindor" },
+                { text: "Enjoy the challenge of navigating artifacts and constraints", house: "Slytherin" },
+                { text: "Send them a polite 'Referral Denied' letter", house: "Ravenclaw" }
+            ]
+        },
+        {
+            q: "What is the Dark Arts of SBRT",
+            options: [
+                { text: "Patient 'jiggling' on the couch", house: "Hufflepuff" },
+                { text: "Metal artifacts", house: "Slytherin" },
+                { text: "Bowel gas", house: "Gryffindor" },
+                { text: "Delineation uncertainties", house: "Ravenclaw" }
+            ]
+        },
+        {
+            q: "In an MDT meeting, you are the one who says",
+            options: [
+                { text: "Technically, we could make this work if we...", house: "Slytherin" },
+                { text: "What does the latest meta-analysis say?", house: "Ravenclaw" },
+                { text: "Let's just get it done. The anatomy is clear enough!", house: "Gryffindor" },
+                { text: "Is the patient comfortable with this?", house: "Hufflepuff" }
+            ]
+        },
+        {
+            q: "How do you feel about intrafractional motion",
+            options: [
+                { text: "It’s a variable I can manage with the right tools", house: "Slytherin" },
+                { text: "It's why I have high blood pressure?", house: "Hufflepuff" },
+                { text: "It's an uncertainty that must be measured in cine-MRI and after imaging", house: "Ravenclaw" },
+                { text: "If I'm fast enough at adapting, it can't catch me", house: "Gryffindor" }
+            ]
+        },
+        {
+            q: "Your ideal clinical environment is...",
+            options: [
+                { text: "A quiet room with four monitors and perfect soft-tissue contrast", house: "Ravenclaw" },
+                { text: "The cutting edge, making decisions on the fly", house: "Gryffindor" },
+                { text: "A busy, friendly department where everyone collaborates", house: "Hufflepuff" },
+                { text: "A high-stakes department, where we can treat even the impossible cases", house: "Slytherin" }
+            ]
+        },
+        {
+            q: "Your Book of Spells is mostly full of",
+            options: [
+                { text: "Shortcuts for fast online contouring", house: "Gryffindor" },
+                { text: "Peer-reviewed studies to ensure our decisions are evidence-based", house: "Ravenclaw" },
+                { text: "Checklists and patient comfort tips", house: "Hufflepuff" },
+                { text: "Custom scripts to bypass software limitations", house: "Slytherin" }
+            ]
+        },
+        {
+            q: "What does 'Innovation' mean to you in a clinical setting?",
+            options: [
+                { text: "Improving the patient experience and making sure no one is left behind", house: "Hufflepuff" },
+                { text: "Implementing a new workflow that pushes the boundaries of the machine", house: "Gryffindor" },
+                { text: "Publishing the most precise, uncertainty-quantified data in the field", house: "Ravenclaw" },
+                { text: "Solving the cases that everyone else says are 'untreatable.'", house: "Slytherin" }
+            ]
+        },
+        {
+            q: "How do you handle a plan revision during a treatment course?",
+            options: [
+                { text: "I analyze the cumulative dose to see if a revision is actually necessary", house: "Ravenclaw" },
+                { text: "I use it as an opportunity to get even better OAR sparing", house: "Slytherin" },
+                { text: "What plan revision? Haven't you heard about online adaptive radiotherapy???", house: "Gryffindor" },
+                { text: "I do it diligently to ensure the team feels confident for the remaining fractions", house: "Hufflepuff" }
+	   ]
+	},
+        {
+            q: "It’s a Friday afternoon, the schedule is delayed, and the team is tired. You are the one who...",
+            options: [
+                { text: "Identifies the bottleneck in the workflow and suggests a systemic change so this doesn't happen next Friday", house: "Ravenclaw" },
+                { text: "Brings in treats and makes sure everyone has had a break, even if it means you stay late", house: "Hufflepuff" },
+                { text: "Keeps the energy high, rallies the troops, and pushes to finish the last patient with a smile", house: "Gryffindor" },
+                { text: "Finds a clever way to re-sequence the tasks so we get out of here 20 minutes earlier", house: "Slytherin" }
+            ]
+        }
+]
